@@ -1,0 +1,26 @@
+{
+  "resources": {
+    "CAD Design": [
+      {
+        "title": "CAD Design Services",
+        "description": "Design lures and molds from start to finish",
+        "url": "https://freelancer.com",
+        "img": "https://"
+      }
+    ],
+    "Resin Materials": [
+      {
+        "title": "Smooth-on Slow 15",
+        "description": "Design lures and molds from start to finish",
+        "url": "https://freelancer.com",
+        "img": "https://"
+      },
+      {
+        "title": "CAD Design Services",
+        "description": "Design lures and molds from start to finish",
+        "url": "https://freelancer.com",
+        "img": "https://"
+      }
+    ]
+  }
+}
