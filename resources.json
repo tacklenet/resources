@@ -1,26 +1,40 @@
 {
-  "resources": {
-    "CAD Design": [
-      {
-        "title": "CAD Design Services",
-        "description": "Design lures and molds from start to finish",
-        "url": "https://freelancer.com",
-        "img": "https://"
-      }
-    ],
-    "Resin Materials": [
-      {
-        "title": "Smooth-on Slow 15",
-        "description": "Design lures and molds from start to finish",
-        "url": "https://freelancer.com",
-        "img": "https://"
-      },
-      {
-        "title": "CAD Design Services",
-        "description": "Design lures and molds from start to finish",
-        "url": "https://freelancer.com",
-        "img": "https://"
-      }
-    ]
-  }
+  "resources": [
+    {
+      "title": "CAD Design by Pankaj",
+      "description": "Design lures and molds from start to finish. Solidworks, Autocad, Fusion 360, Geomagic, Ansys, Keyshot, Blender.",
+      "url": "https://www.freelancer.com/u/pankajp12345?ref_project_id=27930117",
+      "img": "/img/pankaj.jpg",
+      "category": "CAD Design"
+    },
+    {
+      "title": "Sir Spar 3d Printing",
+      "description": "Home-based 3d print service that runs multiple printers for custom printing jobs. Contact Jason for your next project.",
+      "url": "https://www.instagram.com/sirspar3dprinting/",
+      "img": "/img/sirspar.jpg",
+      "category": "3D Printing"
+    },
+
+    {
+      "title": "PrototypingNS",
+      "description": "Making injection molds? CNC machining & 3D printing services based in Serbia. Contact Aleksandar.",
+      "url": "https://www.etsy.com/shop/PrototypingNS",
+      "img": "/img/prototypingns.jpg",
+      "category": "CNC Machining"
+    },
+    {
+      "title": "Smooth-On",
+      "description": "Mold Star™ 15 SLOW teal silicones cure to soft, strong rubbers which are tear resistant and exhibit very low long term shrinkage.",
+      "url": "https://www.smooth-on.com/products/mold-star-15-slow/",
+      "img": "/img/smoothon.jpg",
+      "category": "Resin Molding"
+    },
+    {
+      "title": "Dead on Plastix",
+      "description": "NON-PTHALATE! The Black bucket sinks and the White bucket floats. When you mix the two, the possibilities are endless…",
+      "url": "https://deadonplastixllc.com/",
+      "img": "/img/deadonplastix.jpg",
+      "category": "Plastisol"
+    }
+  ]
 }
